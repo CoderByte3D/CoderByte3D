@@ -22,6 +22,7 @@
 
 
 
+
 <div align="center">
   <table>
     <tr>
@@ -33,10 +34,10 @@
         </a>
       </td>
       <td align="center">
-        <a href="LINK">
-          <img src="LINK" width="90" height="90" alt="LINK" />
+        <a href="https://www.instagram.com/coderbyte3d/">
+          <img width="88" height="88" alt="image" src="https://github.com/user-attachments/assets/3e062a2f-c786-4982-b268-854f76f8f736" />
           <br/>
-          🎓 <b>LINK LINK</b>
+          🎓 <b>SIGUEME EN INSTAGRAM</b>
         </a>
       </td>
     </tr>
