@@ -27,7 +27,7 @@
         <a href="https://discord.gg/VvvpDPWtp">
           <img src="https://github.com/user-attachments/assets/39be7be2-f95e-4aa0-b667-c993638a29e2" width="90" height="90" alt="Discord" />
           <br/>
-          🧠 <b>Únete a mi comunidad</b>
+          🧠 <b>Únete a la comunidad M4ker👥</b>
         </a>
       </td>
       <td align="center">
