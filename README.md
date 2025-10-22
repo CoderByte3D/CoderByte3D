@@ -1,4 +1,6 @@
 <div align="center">
+<img width="270" height="270" alt="imagen_circular_recortada" src="https://github.com/user-attachments/assets/43ba5c49-290d-4113-b3e7-65688dce5238" />
+
 
 <h1 style="font-size:48px;">CoderByte3D</h1>
 
