@@ -1,16 +1,22 @@
-# CoderByte3D
+<div align="center">
 
-⚡ HOBBIES ⚡
+<h1 style="font-size:48px;">CoderByte3D</h1>
 
-🧩 Maker & 3D → Impresión 3D, Diseño de piezas, Automatización.
+<h2 style="font-size:32px;">⚡ HOBBIES ⚡</h2>
 
-⚙️ IoT & Electrónica → ESP32, Arduino, Sensores, Prototipos.
+<p style="font-size:20px; text-align:left;">
+🧩 <b>Maker & 3D</b> → Impresión 3D, Diseño de piezas, Automatización.<br>
+  
+⚙️ <b>IoT & Electrónica</b> → ESP32, Arduino, Sensores, Prototipos.<br>
 
-💻 Sistemas & Redes → Linux, Docker, MySQL, Packet Tracer.
+💻 <b>Sistemas & Redes</b> → Linux, Docker, MySQL, Packet Tracer.<br>
 
-🎨 Creatividad digital → RRSS, Photoshop, Edición de vídeo, Miniaturas. 
+🎨 <b>Creatividad digital</b> → RRSS, Photoshop, Edición de vídeo, Miniaturas.<br>
 
-🏎️ Coleccionismo → Hot Wheels, Restauración y mods personalizados.
+🏎️ <b>Coleccionismo</b> → Hot Wheels, Restauración y mods personalizados.
+</p>
+
+</div>
 
 
 
@@ -35,5 +41,5 @@
   </table>
 </div>
 
-<div align="center">
+
 
