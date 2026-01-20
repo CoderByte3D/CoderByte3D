@@ -7,15 +7,15 @@
 <h2 style="font-size:32px;">⚡ HOBBIES ⚡</h2>
 
 <p style="font-size:20px; text-align:left;">
-🧩 <b>Maker & 3D</b> → Impresión 3D, Diseño de piezas, Automatización.<br>
+🧩 <b>Maker & 3D</b> → Servicios Impresión 3D, Diseño de piezas, Automatización.<br>
   
-⚙️ <b>IoT & Electrónica</b> → ESP32, Arduino, Sensores, Prototipos.<br>
+⚙️ <b>IoT & Electrónica</b> → ESP32, BW16, M5STICK, Arduino, Sensores, Prototipos.<br>
 
 💻 <b>Sistemas & Redes</b> → Linux, Docker, MySQL, Packet Tracer.<br>
 
 🎨 <b>Creatividad digital</b> → RRSS, Photoshop, Edición de vídeo, Miniaturas.<br>
 
-🏎️ <b>Coleccionismo</b> → Hot Wheels, Restauración y mods personalizados.
+🏎️ <b>Coleccionismo</b> → Diecast, Dioramas, Hot Wheels, Restauración y mods personalizados.
 </p>
 
 </div>
