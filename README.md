@@ -19,20 +19,6 @@
 </p>
 
 
-##ejemplo
-
-<p style="font-size:20px; text-align:left;">
-🧩 <span style="font-size:24px; font-weight:bold;">Maker & 3D</span> → Servicios Impresión 3D, Diseño de piezas, Automatización.<br><br>
-  
-⚙️ <span style="font-size:24px; font-weight:bold;">IoT & Electrónica</span> → ESP32, BW16, M5STICK, Arduino, Sensores, Prototipos.<br><br>
-
-💻 <span style="font-size:24px; font-weight:bold;">Sistemas & Redes</span> → Linux, Docker, MySQL, Packet Tracer.<br><br>
-
-🎨 <span style="font-size:24px; font-weight:bold;">Creatividad digital</span> → RRSS, Photoshop, Edición de vídeo, Miniaturas.<br><br>
-
-🏎️ <span style="font-size:24px; font-weight:bold;">Coleccionismo</span> → Diecast, Dioramas, Hot Wheels, Restauración y mods personalizados.
-</p>
-
 </div>
 
 
